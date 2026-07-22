@@ -26,5 +26,5 @@ draw.io
 A complete, traceable requirements-to-design package — functional and non-functional requirements, actor/use case modeling, workflow modeling, data structure design, and object interaction modeling — suitable as a blueprint for development handoff.
 
 ## Artifacts
-Full use case descriptions is avaialble in the report and additional diagrams are available in [`/Diagrams`](Diagrams/).
+Full use case descriptions is available in the report and additional diagrams are available in [`/Diagrams`](Diagrams/).
 
