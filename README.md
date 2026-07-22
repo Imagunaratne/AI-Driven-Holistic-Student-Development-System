@@ -28,13 +28,13 @@ A complete, traceable requirements-to-design package — functional and non-func
 ## Artifacts
 
 ### Use Case Diagram
-![Use Case Diagram](Diagrams/use-case-diagram.jpg)
+![Use Case Diagram](Diagrams/User-case-diagram.jpg)
 
 ### Class Diagram
-![Class Diagram](diagrams/class-diagram.jpg)
+![Class Diagram](Diagrams/Class-diagram.jpg)
 
 ### Activity Diagram — Student Enrollment to a Project
-![Activity Diagram](diagrams/activity-diagram-enrollment.jpg)
+![Activity Diagram](Diagrams/Activity-diagram-enrollment.jpg)
 
 ### Sequence Diagram — AI Chatbot
 ![Sequence Diagram](diagrams/sequence-diagram-chatbot.jpg)
