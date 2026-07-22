@@ -1,4 +1,4 @@
-# Systems Analysis & Design — Student Development Platform Requirements Modeling
+# Student Development Platform Requirements Modeling
 
 ## Problem
 Universities support students academically but rarely track their whole development (academic performance, mental health, social-emotional growth, and extracurricular activity) in one connected system. This project analyzes requirements for an AI-Driven Holistic Student Development System that unifies these areas and models the system end-to-end using UML.
