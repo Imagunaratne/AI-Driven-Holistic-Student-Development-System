@@ -26,18 +26,5 @@ draw.io
 A complete, traceable requirements-to-design package — functional and non-functional requirements, actor/use case modeling, workflow modeling, data structure design, and object interaction modeling — suitable as a blueprint for development handoff.
 
 ## Artifacts
-
-### Use Case Diagram
-![Use Case Diagram](Diagrams/User-case-diagram.jpg)
-
-### Class Diagram
-![Class Diagram](Diagrams/Class-diagram.jpg)
-
-### Activity Diagram — Student Enrollment to a Project
-![Activity Diagram](Diagrams/Activitity-diagram-of-displaying-personalized-learning-modules.jpg)
-
-### Sequence Diagram — AI Chatbot
-![Sequence Diagram](diagrams/sequence-diagram-chatbot.jpg)
-
 Full use case descriptions and additional diagrams are available in [`/Diagrams`](Diagrams/).
 
