@@ -34,7 +34,7 @@ A complete, traceable requirements-to-design package — functional and non-func
 ![Class Diagram](Diagrams/Class-diagram.jpg)
 
 ### Activity Diagram — Student Enrollment to a Project
-![Activity Diagram](Diagrams/Activity-diagram-enrollment.jpg)
+![Activity Diagram](Diagrams/Activitity diagram of displaying personalized learning modules.jpg)
 
 ### Sequence Diagram — AI Chatbot
 ![Sequence Diagram](diagrams/sequence-diagram-chatbot.jpg)
